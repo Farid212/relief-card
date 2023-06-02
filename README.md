@@ -8,9 +8,9 @@
 
 > just a card with some relief interaction
 
-### 🏠 [Homepage](dcard-7f258.web.app)
+### 🏠 [Homepage](https://dcard-7f258.web.app)
 
-### ✨ [Demo](dcard-7f258.web.app)
+### ✨ [Demo](https://dcard-7f258.web.app)
 
 ## Install
 
